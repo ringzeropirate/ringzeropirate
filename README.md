@@ -1,5 +1,4 @@
 ## Hi there, I'm @ZeroRing Pirate!👋
-> `kernel.ring0 — root or nothing`
 
 
 <!--
